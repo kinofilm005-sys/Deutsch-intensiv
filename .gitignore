@@ -1,0 +1,22 @@
+.DS_Store
+node_modules/
+.env
+*.log
+*.tmp
+.vscode/
+__pycache__/
+*.bak
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Ignore built assets
+/dist
+/build
+
+# IDE
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
